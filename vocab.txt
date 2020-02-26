@@ -5,3 +5,22 @@ Russia,러시아
 Pakistan,파키스탄
 dictionary,사전
 hat,모자
+watch clock,시계
+notebook,공책
+umbrella,우산
+newspaper,신문
+cellphone,휴대폰
+book,책
+glasses,안경
+friend,친구
+bag,가방
+boyfriend,남자 친구
+coin,동전
+window,창문
+map,지도
+blackboard,칠판
+pencil case,필통
+ruler,자
+magazine,잡지
+wallet,지갑
+eraser,지우개
