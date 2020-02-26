@@ -1,2 +1,7 @@
-India   인도
-job   직업
+India,인도
+job,직업
+name,이름
+Russia,러시아
+Pakistan,파키스탄
+dictionary,사전
+hat,모자

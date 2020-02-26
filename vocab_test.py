@@ -8,13 +8,13 @@ if __name__ == "__main__":
     english = []
     korean = []
     for line in lines:
-        c = line.split()
+        c = line.split(",")
         english.append(c[0])
-        korean.append(c[1])
+        korean.append(c[1].strip())
 
     f.close()
     n = len(english)
-    length_test = 2
+    length_test = 10
     k = random.randint(0,n,size=length_test)
     success = 0
     failure = 0
