@@ -15,7 +15,7 @@ if __name__ == "__main__":
     f.close()
     n = len(english)
     length_test = 10
-    k = random.choice(n,length_test)
+    k = random.choice(n,length_test,replace=False)
     print(k)
     success = 0
     failure = 0

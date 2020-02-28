@@ -24,3 +24,27 @@ ruler,자
 magazine,잡지
 wallet,지갑
 eraser,지우개
+Germany,독일
+America,미국
+Britian,영국
+Japan,일본
+China,중국
+France,프랑스
+Korea,한국
+Australia,호주
+singer,가수
+reporter,기자
+cook,요리사
+student,학생
+military personnel,군인
+teacher,선생님
+doctor,의사
+company employee,회사원
+ant,개미
+pig,돼지
+ship,배
+why,왜
+bird,새
+waiter,웨이터
+sun,태양
+sweater,스웨터
