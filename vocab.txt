@@ -48,3 +48,33 @@ bird,새
 waiter,웨이터
 sun,태양
 sweater,스웨터
+washing your face,세수
+memorize,암기
+crab,게
+beef,소고기
+swing,그네
+company,회사
+camera,카메라
+brain,뇌
+talk,이야기
+ear,귀
+to be pretty,예쁘다
+rest,쉬다
+calligraphy,달필
+mouse,쥐
+scissors,가위
+snack food,과자
+doctor,의사
+chair,의자
+painter,화가
+meeting,모임
+apple,사과
+watermelon,수박
+what,뭐
+book,책
+to give,주다
+kitchen,부엌
+to be hot,더워요
+to be cold,추워요
+outside,외부
+money,돈
