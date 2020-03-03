@@ -78,3 +78,9 @@ to be hot,더워요
 to be cold,추워요
 outside,외부
 money,돈
+teeth,이
+father,아버지
+five,오
+waist,허리
+kid or baby,아이
+baseball,야구
