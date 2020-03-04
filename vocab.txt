@@ -84,3 +84,5 @@ five,오
 waist,허리
 kid or baby,아이
 baseball,야구
+desk,책상
+table,표
