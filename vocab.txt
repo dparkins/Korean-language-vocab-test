@@ -86,3 +86,5 @@ kid or baby,아이
 baseball,야구
 desk,책상
 table,표
+Hello!,안녕하세요!
+Pleased to meet you!,만나서 반갑습니다!
