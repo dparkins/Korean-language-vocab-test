@@ -105,3 +105,21 @@ strawberry,딸기
 bed,침대
 restaurant,식당,음식점
 company,회사
+we,우리
+my (informal),나의
+my (formal),저의
+roommate,룸메이트
+air conditioner,에어컨
+library,도서관
+house,집
+department store,백화점
+market,시장
+park,공원
+coffee shop,커피숍
+cafe,카페
+theatre,극장
+school,학교
+shop or store,가게
+hospital,병원
+clothes,옷
+shoes,신발
