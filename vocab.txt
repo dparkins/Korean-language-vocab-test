@@ -123,3 +123,21 @@ shop or store,가게
 hospital,병원
 clothes,옷
 shoes,신발
+to do,하다
+to eat,먹다
+to have a meal,밥을 먹다
+homework,숙제
+to do homework,숙제를 하다
+to see/watch,부다
+to watch/see a movie,영화 보다
+to buy,사다
+clothes,옷
+to buy clothes,옷을 사다
+exercise,운동
+to exercise,운동하다
+work,일
+to work,일하다
+to sleep,자다
+sleep,잠
+to read,읽다
+to read a book,책을 읽다
