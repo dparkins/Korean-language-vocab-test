@@ -141,3 +141,24 @@ to sleep,자다
 sleep,잠
 to read,읽다
 to read a book,책을 읽다
+to meet,만나다
+to meet a friend,친구를 만나다
+to drink,마시다
+to drink a coffee,커피를 마시다
+Taekwondo,태권도
+to learn,배우도
+to learn Taekwondo,태권도 배우
+study,공부
+to study,공부하다
+part-time,아르바이트
+part-time (casual),알바
+to work part time,아르바이트하다
+today,오늘
+tomorrow,내일
+and,그리고
+then,그럼
+where,어디
+now,지금
+to rest,쉬다
+food,음식
+to drive,운전하다
