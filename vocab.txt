@@ -100,7 +100,7 @@ orange,오렌지
 movie,영화
 milk,우유
 banana,바나나
-and,하고
+and (between nouns),하고
 strawberry,딸기
 bed,침대
 restaurant,식당,음식점
@@ -155,10 +155,11 @@ part-time (casual),알바
 to work part time,아르바이트하다
 today,오늘
 tomorrow,내일
-and,그리고
+and (between sentences),그리고
 then,그럼
 where,어디
 now,지금
 to rest,쉬다
 food,음식
 to drive,운전하다
+cherry blossom,벚꽃
