@@ -163,3 +163,26 @@ to rest,쉬다
 food,음식
 to drive,운전하다
 cherry blossom,벚꽃
+Korean singing room,노래방
+airport,공항
+post office,우체국
+embassy,대사관
+store,가게
+pharmacy,약국
+hospital,병원
+hair salon,미용실
+front,앞
+back,뒤
+side,옆
+inside,안
+under,아래
+bottom,밑
+classroom,교실
+teahouse,찻집
+downtown,시내
+to sightsee,구경하다
+to shop,쇼핑하다
+theatre play,연극
+bookstore,서점
+bakery,빵집
+restroom,화장실
