@@ -49,6 +49,7 @@ waiter,웨이터
 sun,태양
 sweater,스웨터
 washing your face,세수
+to wash your face,세수하다
 memorize,암기
 crab,게
 beef,소고기
@@ -79,7 +80,9 @@ to be cold,추워요
 outside,외부
 money,돈
 teeth,이
+to brush your teeth,이를 닦다
 father,아버지
+mother,어머니
 five,오
 waist,허리
 kid or baby,아이
@@ -186,3 +189,36 @@ theatre play,연극
 bookstore,서점
 bakery,빵집
 restroom,화장실
+beer,맥주
+soju,소주
+wine,와인
+to be doing well,잘 지내다
+dormitory,기숙사
+everyday,매일
+that,그
+class,반
+to love,사랑하다
+photo,사진
+souvenier,기념품
+picture/painting,그림
+what date,며칠
+test,시험
+when,언제
+date,날짜
+day (of the week),요일
+with (a noun),하고
+appointment/promise,약속
+together,캍이
+time,시간
+to be sorry,미안하다
+yesterday,어제
+gift,선물
+there,거기
+to stroll,산책 하다
+to take a photo,사진을 찍다
+who,누구
+alone,혼자
+to be finished,끝나다
+what,무슨
+birthday,생일
+calendar,달력
