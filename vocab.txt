@@ -222,3 +222,4 @@ to be finished,끝나다
 what,무슨
 birthday,생일
 calendar,달력
+오후,afternoon
