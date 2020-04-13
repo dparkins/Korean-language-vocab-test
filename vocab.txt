@@ -222,4 +222,44 @@ to be finished,끝나다
 what,무슨
 birthday,생일
 calendar,달력
-오후,afternoon
+afternoon,오후
+so/therefore,그래서
+schedule,일정
+schedule (eng pronounce),스케즐
+last week,지난주
+New year's day (lunar),설날
+beef rib soup,갈비탕
+gimbap,김밥
+kimchi,김치
+kimchi stew,김치찌개
+cold noodles,냉면
+ramen/instant noodles,라면
+bulgogi,불고기
+bibimbap,비빔밥
+sandwich,샌드위치
+spaghetti,스파게티
+pizza,피자
+hamburger,햄버거
+mandarin orange,귬
+strawberry,딸기
+apple,사과
+watermelon,수박
+one,하나
+two,둘
+three,셋
+four,넷
+five,다섯
+six,여섯
+seven,일곱
+eight,여덟
+nine,아홉
+ten,열
+how much,얼마
+10 won,십 원
+50 won,오십 원
+100 won,백 원
+500 won,오백 원
+1000 won,천 원
+5000 won,오천 원
+10000 won,만 원
+50000 won,오만 원 
