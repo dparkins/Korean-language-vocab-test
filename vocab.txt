@@ -64,7 +64,7 @@ rest,쉬다
 calligraphy,달필
 mouse,쥐
 scissors,가위
-snack food,과자
+snack food/cracker,과자
 doctor,의사
 chair,의자
 painter,화가
@@ -262,4 +262,43 @@ how much,얼마
 1000 won,천 원
 5000 won,오천 원
 10000 won,만 원
-50000 won,오만 원 
+50000 won,오만 원
+to sit down,앉다
+to give,주다
+for a moment,잠깐만
+to wait,기다리다
+bread,빵
+how many,몇
+to like,좋아하다
+to be delicious,맛있다
+to be good,좋다
+to be cheap,싸다
+road,길
+to be crowded/to be complicated,복잡하다
+song,노래
+pants,바지
+sneakers,운동화
+middle-aged man,아저
+middle-aged woman,아줌마
+per,에
+all,모두
+again,또
+pear,배
+kiwi,키위
+pineapple,파인애플
+melon,멜론
+box (eng),박스
+box (kor),상자
+egg,계란
+snack,간식
+cake,케이크
+pork cutlet,돈가스
+lunch,점심
+inch,인치
+thing/object/stuff,물건
+to sell,권
+very,아주
+remote control,리모컨
+to be clean,깨끗하다
+a lot,많이
+to call,전화하다
