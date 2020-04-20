@@ -75,8 +75,6 @@ what,뭐
 book,책
 to give,주다
 kitchen,부엌
-to be hot,더워요
-to be cold,추워요
 outside,외부
 money,돈
 teeth,이
@@ -302,3 +300,24 @@ remote control,리모컨
 to be clean,깨끗하다
 a lot,많이
 to call,전화하다
+to be expensive,비싸다
+to be cloudy,흐리다
+to be clear,맑다
+to be hot,덥다
+to be cold,춥다
+to be warm,따뜻하다
+to be refreshing,시원하다
+to rain,비가 오다
+to snow,눈이 오다
+spring,봄
+summer,여름
+autumn,가을
+winter,겨울
+to be easy,쉽다
+to be difficult,어렵다
+to be spicy,맵다
+to be light,가볍다
+to be heavy,무겁다
+to talk,이야기하다
+hometown,고향
+season,계절
