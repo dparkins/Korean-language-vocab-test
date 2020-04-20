@@ -321,3 +321,25 @@ to be heavy,무겁다
 to talk,이야기하다
 hometown,고향
 season,계절
+break time,쉬는 시간
+weather,날씨
+how is it?,어때요?
+to be how,어떻다
+younger sibling,동생
+rice cakes in hoy sauce,떡볶이
+to be fun/interesting,쟤미있다
+to be boring/uninteresting,째미없다
+be careful on your way here,조심해서 오세요
+London,런던
+Tokyo,도쿄
+Singapore,싱가포르
+Moscow,모스크바
+Beijing,베이징
+Paris,파리
+New York,뉴욕
+these days,요즘
+ski resort,스키장
+swimming pool,수영장
+flower,꽃
+autumn foliage,단풍
+test,시험
