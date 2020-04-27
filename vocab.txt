@@ -276,7 +276,7 @@ to be crowded/to be complicated,복잡하다
 song,노래
 pants,바지
 sneakers,운동화
-middle-aged man,아저
+middle-aged man,아저씨
 middle-aged woman,아줌마
 per,에
 all,모두
