@@ -343,3 +343,32 @@ swimming pool,수영장
 flower,꽃
 autumn foliage,단풍
 test,시험
+sea,바다
+fish,생선
+Busan,부산
+last year,작년
+Brazil,브라질
+from,에서
+always,항상
+for the first time,처음
+sky,하늘
+snowman,눈사람
+to make,만들다
+Thailand,태국
+to swim,수영하다
+mango,망고
+sunglasses,선글라스
+fan,부채
+slippers,스리퍼
+to play tennis,태니스를 치다
+to play golf,골프를 치다
+to hit,치다
+to play the guitar,기타를 치다
+to play the piano,피어노를 치다
+to play billiards,둥구를 치다
+to skate,스케이트를 타다
+to ski,스키를 타다
+to ride a bicycle,자전거를 타다
+to play soccer,축구를 하다
+to play a game,게임를 하다
+to play basketball,농구를 하다
