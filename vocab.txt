@@ -372,3 +372,4 @@ to ride a bicycle,자전거를 타다
 to play soccer,축구를 하다
 to play a game,게임를 하다
 to play basketball,농구를 하다
+to take a nap,낮잠을 자다
