@@ -373,3 +373,38 @@ to play soccer,축구를 하다
 to play a game,게임를 하다
 to play basketball,농구를 하다
 to take a nap,낮잠을 자다
+to go to the singing room,노래방에 가다
+to climb a mountain,등산을 하다
+to stroll,산책을 하다
+to travel,여행을 하다
+to go to a Korean sauna,찜질방에 가다
+to walk,걷다
+bus,버스
+taxi,택시
+to ride,타다
+to go on foot,걸어서 가다
+music,음악
+to listen,듣다
+news,뉴스
+radio,라디오
+well,잘
+life,생활
+a little,조금
+to be close,가깝다
+really,정말
+to be a few/little,적다
+to be a lot/many,많다
+often,자주
+okay,그래요
+next,다음
+to be tired,피곤하다
+to be big,크다
+to be small,작다
+class,수업
+there,저기
+morning/am,오전
+afternoon/pm,오후
+athletic field,운동장
+how,어떻게
+by the way,그런데
+to be bored,심심하다
