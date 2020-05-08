@@ -251,7 +251,7 @@ six,여섯
 seven,일곱
 eight,여덟
 nine,아홉
-ten,열
+ten (native korean),열
 how much,얼마
 10 won,십 원
 50 won,오십 원
@@ -390,3 +390,34 @@ radio,라디오
 well,잘
 life,생활
 a little,조금
+family,가족
+grandmother,할머니
+grandfather,할아버지
+older sister for male,누나
+older brother for male,형
+older sister for female,언니
+older brother for female,오빠
+younger sister,여동생
+younger brother,남동생
+wife,아내
+husband,남편
+daughter,딸
+son,아들
+age,나이
+unit noun for age,살
+twenty (native korean),스물
+thirty (native korean),서른
+forty (native korean),마흔
+fifty (native korean),쉰
+sixty (native korean),예순
+seventy (native korean),일흔
+eighty (native korean),여든
+ninety (native korean),아흔
+one hundred (native korean),백
+age (honorific),연세
+unit noun for a person (honorific),분
+name (honrific),성함
+sleep (honorific),주무시다
+house (honorific),댁
+there is (honorific),계시다
+eat/drink (honorific),드시다
