@@ -421,3 +421,34 @@ sleep (honorific),주무시다
 house (honorific),댁
 there is (honorific),계시다
 eat/drink (honorific),드시다
+driving,운전
+mathematics,수학
+to greet,인사하다
+this (person),이쪽
+this person (honorific),이분
+not really,뭘요
+club,동아리
+same,같은
+different,다른
+history,역사
+from (someone),한테서
+family photo,가족사진
+to laugh,웃다
+hobby,취미
+to be born,태어나다
+our,우리
+to attend on a regular basis/to work for,다니다
+to be kind,친잘하다
+president of a company,사장님
+in the past,전에
+to be stylish/cool,멋있다
+parents,부모님
+beautiful woman,미인
+university,대학교
+newspaper publishing company,신문사
+middle school,중학교
+cat,고양이
+puppy,강아지
+dog,개
+department,과
+to become,되다
